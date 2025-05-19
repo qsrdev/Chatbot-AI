@@ -1,5 +1,5 @@
 import messages from "./data.js";
-import { printMessages } from "./functions.js";
+import { printMessages, printSingleMessage } from "./functions.js";
 
 //devo stampare i messaggi in pagina
 const chatbox = document.getElementById("chat-box");
